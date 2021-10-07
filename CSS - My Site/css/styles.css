@@ -1,0 +1,129 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 350px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+.top-container{
+    background-color:#eaf6f6;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 100px;   
+}
+a{
+    margin: 10px 20px;
+    color:#11999e;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.middle-container{
+    padding: 100px 0 10px 0;
+}
+.ptag{
+    width: 30%;
+    margin: auto;
+}
+.botton{
+    margin-bottom: 100px;
+    position: relative;
+    top: 20px;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 6.45em;
+    color:  #66BFBF;
+    font-family: 'Sacramento', cursive;
+   }
+h2{
+    margin-top: 0px;
+    font-family:sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+   }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+}
+ a{
+       color:  #11999E;
+}
+.pgram{
+    text-decoration:wavy;
+}
+.pro{
+    font-weight: normal;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 90px;
+}
+.last-cloud{
+    position: absolute;
+    right: 200px;
+    bottom: 200px;
+}
+.dolapo{
+    border-radius: 100%;
+    width: 15%;
+}
+.lappy{
+    border-radius: 100%;
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.fooding{
+    border-radius: 100%;
+    width: 35%;
+    float: right;
+    margin-right: 30px;
+}
+.skills-set{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill{
+    text-decoration: underline;
+}
+.picture{
+    position: relative;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 70px auto;
+}
+p{
+    line-height: 2;
+}
+.flover{
+    width: 40%;
+    margin: 40px auto 60px;
+}
